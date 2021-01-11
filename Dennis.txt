@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hola que haces ? Soy Dennis como esta
 adf
+=======
+Hola que haces ? LOCO
+>>>>>>> 0f51b10a272808a9fd1f7a28e0168326ac02f1dc
